@@ -1,7 +1,7 @@
 console.log('funguju!');
-const side = 1
+let side = 1
 
-const dice = document.querySelector(img)
+const dice = document.querySelector(".dice")
 
 const changeSide = () => {
     side = side + 1
