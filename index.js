@@ -8,4 +8,4 @@ const changeSide = () => {
     dice.src = `img/side${side}.svg`
 }
 
-document.addEventListener("keydown", changeSite)
+document.addEventListener("keydown", changeSide)
